@@ -3,7 +3,7 @@ PolygonClipper.Haxe
 
 A Haxe port of the AS3 port of the C# version of the Clipper library.
 
-The AS3 version was ported by Chris Demham, and can be found at:
+The AS3 version was ported by Chris Denham, and can be found at:
 https://github.com/ChrisDenham/PolygonClipper.AS3
 
 The original was made by Angus Johnson, and can be found at:
