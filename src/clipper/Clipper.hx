@@ -11,7 +11,7 @@ class Clipper extends ClipperBase
 		var subjectPolygon:Polygon = new Polygon();
 		var clipPolygon:Polygon = new Polygon();
 
-		// Convert flash.clipper.Point arrays into IntPoint vectors
+		// Convert clipper.Point arrays into IntPoint vectors
 		var point:Point;			
 		for (point in subjectPolygonFloat) 
 		{				
