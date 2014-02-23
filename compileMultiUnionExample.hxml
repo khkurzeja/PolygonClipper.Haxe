@@ -1,0 +1,5 @@
+-swf bin/MultiUnionExample.swf
+-cp src
+-main MultiUnionExample
+-swf-header 600:400:60:FFFFFF
+-swf-version 10.1

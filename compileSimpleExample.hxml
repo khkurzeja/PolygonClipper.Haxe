@@ -1,0 +1,5 @@
+-swf bin/SimpleExample.swf
+-cp src
+-main SimpleExample
+-swf-header 600:400:60:FFFFFF
+-swf-version 10.1
